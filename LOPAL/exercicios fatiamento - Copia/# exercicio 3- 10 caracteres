@@ -1,0 +1,8 @@
+print ("me de 10 caracteres minúsculo que eu mostrarei elas  quantas consoantes foram lidas")
+l= 10
+caracteres= []
+for i in range (11):
+    valor = int(input("digite um numero:"))
+    l+= caracteres
+print (l)
+print (caracteres)
